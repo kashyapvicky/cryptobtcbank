@@ -1,0 +1,1677 @@
+/* Medium Layout: 1366px. */
+@media only screen and (min-width:1201px) and (max-width:1366px){
+    .how-it-work .how-it-work-progress{
+        left: 50%;
+    }
+    .maining-area .left-content-area {
+        padding-left: 18%;
+        padding-right: 20px;
+    }
+    .maining-area .right-content-area .features-carousel {
+        margin-left: -110px;
+    }
+    
+}
+/* Medium Layout: 1200px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .navbar-area .navbar-collapse .navbar-nav .nav-item {
+        display: inline-block;
+        font-size: 14px;
+        line-height: 45px;
+        text-transform: uppercase;
+        font-weight: 700;
+        padding: 20px 10px;
+        position: relative;
+    }
+    .header-area .header-shape-3,
+    .header-area .header-shape-7,
+    .header-area .header-shape-6,
+    .new-way-to-earn .single-new-way-item .content p br {
+        display: none;
+    }
+    .calculation-area .calculation-title .title {
+        font-size: 37px;
+        line-height: 47px;
+    }
+    .section-title .title {
+        font-size: 44px;
+        line-height: 54px;
+    }
+    .new-way-to-earn .single-new-way-item .content .title {
+        font-size: 20px;
+        line-height: 34px;
+    }
+    .how-it-work .how-it-work-progress {
+        left: 40%;
+    }
+    .fetures-area .feature-lists .single-feature-item .content{
+        padding-right: 0;
+    }
+    .fetures-area .feature-lists .single-feature-item .icon {
+        position: relative;
+        display: block;
+        right: -100%;
+        top: 0;
+        margin-left: -90px;
+        margin-bottom: 30px;
+    }
+    .fetures-area .feature-lists .single-feature-item.middle{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .fetures-area .feature-lists.right .single-feature-item .icon {
+        right: 0;
+        left: auto;
+        position: relative;
+        left: 28%;
+    }
+   .fetures-area .feature-lists.right .single-feature-item .content {
+       padding-left: 0;
+   }
+
+   .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3 .borde_4 .border__5 .border__6 img {
+       margin-left: 15px;
+       max-width: 52%;
+   }
+   .fetures-area .feature-lists.right .single-feature-item.middle{
+       margin-left: 0;
+   }
+   .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3 .borde_4 .border__5 .border__6 {
+       top: 42%;
+   }
+   .reward-area .left-content-area {
+       position: absolute;
+       top: auto;
+       bottom: -120px;
+   }
+   .intregration-area .right-content-area .single-intregration-item .content .title {
+       font-size: 24px;
+       font-weight: 700;
+       color: #fff;
+       margin-bottom: 20px;
+   }
+   .subscription-area .subscription-inner .left-content-area .title {
+       font-size: 38px;
+   }
+   .footer-top .left-content-area .title {
+       font-size: 34px;
+       line-height: 44px;
+   }
+   .about-us-content .right-content-area {
+       padding-top: 15px;
+   }
+   .calculation-area .calculation-result .result {
+       font-size: 18px;
+   }
+   .maining-area .left-content-area {
+       padding-left: 7%;
+   }
+   .maining-area .left-content-area .title {
+       font-size: 35px;
+       line-height: 45px;
+   }
+   .maining-area .right-content-area .features-carousel .single-feature-carousel .single-new-way-item .content .title {
+       font-size: 20px;
+       line-height: 40px;
+   }
+   .maining-area .right-content-area .features-carousel {
+       margin-left: -22%;
+   }
+   .service-page-content-area .left-content-area .title {
+       font-size: 38px;
+   }
+   .service-page-content-area .left-content-area {
+       padding-top: 0;
+   }
+   .sidebar .widget-area.social-media .widget-body ul li:nth-child(3n){
+       margin-left: 0;
+       margin-right: 8px;
+   }
+   .sidebar .widget-area.social-media .widget-body ul li:nth-child(3n+1){
+       margin-left: 8px;
+   }
+   .sidebar .widget-area.social-media .widget-body ul li:first-child{
+       margin-left: 0px;
+   }
+   .sidebar .widget-area.social-media .widget-body ul li:last-child{
+       margin-left: 8px;
+   }
+   .sidebar .widget-area.social-media .widget-body ul li:nth-child(5){
+       margin-left: 0;
+   }
+   .sidebar .widget-area.crypto-tickers .widget-body .crypto-table tbody tr td .icon-details .name {
+       font-size: 12px;
+   }
+   .sidebar .widget-area.crypto-tickers .widget-body .crypto-table tbody tr td {
+       font-size: 12px;
+   }
+   .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .submit-btn {
+       position: initial;
+       margin-top: 10px;
+   }
+
+   .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.submit,
+   .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.submit .submit-btn {
+       display: block;
+       width: 100%;
+   }
+   .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .input-field {
+       width: 130px;
+   }
+   .earning-area .right-content-wrapper .crypto-prices-wrapper .crypto-table tbody tr td .icon-details .name {
+       font-size: 12px;
+   }
+   .dashboard-nav .right-content-area .nav.nav-tabs .nav-item.dropdown .nav-link .img-wrapper {
+     display: none;
+   }
+   .map {
+       height: 600px;
+   }
+   .pricing-area .single-pricing-table.popular .badge-text {
+       right: -53px;
+       top: 0px;
+       width: 150px;
+       font-size: 12px;
+   }
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar-area .navbar-collapse {
+        position: absolute;
+        top: 100px;
+        background: #141A66;
+        z-index: 9;
+        right: 0;
+        width: 250px;
+        padding-left: 20px;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item .dropdown-menu.show {
+        border: 0;
+    }
+    .navbar-area.navbar.navbar-light .navbar-toggler {
+        background: #fff;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item .nav-link.pl-0 {
+        padding-left: 0.4rem !important;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item {
+        padding: 0;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item .dropdown-menu.show .dropdown-item {
+        color: #fff;
+    }
+    .dropdown-item {
+        background: #141A66;
+        color: #fff;
+        border: 0;
+    }
+    .header-area .header-inner .title {
+        font-size: 58px;
+        line-height: 68px;
+    }
+
+    .header-area .header-shape-3,
+    .header-area .header-shape-7,
+    .how-it-work .how-it-work-progress,
+    .reward-area .left-content-area {
+        display: none;
+    }
+    .header-area .header-inner p {
+        font-size: 18px;
+    }
+    .navbar-area {
+        top: 0;
+        height: 100px;
+    }
+
+    .logo-wrapper.navbar-brand {
+        padding-top: 0;
+    }
+    .navbar-area {
+        top: 20px;
+    }
+
+    .logo-wrapper.navbar-brand {
+        padding-top: 0;
+    }
+
+    .navbar-area .navbar-collapse .navbar-nav .nav-item {
+        line-height: 35px;
+    }
+    .calculation-area {
+        text-align: center;
+    }
+    .calculation-area .calculation-form {
+        padding: 0 20px;
+        position: relative;
+        margin-top: 25px;
+        left: -11%;
+    }
+    .rmb-70{
+        margin-bottom: 120px !important;
+    }
+    .new-way-to-earn .single-new-way-item .content .title {
+        font-size: 21px;
+        font-weight: 700;
+    }
+    .fetures-area .feature-lists .single-feature-item .icon {
+        left: 0;
+    }
+
+    .fetures-area .feature-lists .single-feature-item .content {
+        text-align: left;
+        padding-right: 0;
+        padding-left: 120px;
+    }
+
+    .fetures-area .feature-lists .single-feature-item.middle {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3 .borde_4 .border__5:after,
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3 .borde_4:after,
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3:after,
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2:after,
+    .fetures-area .feature-middle-image .border__ .border__1:after,
+    .fetures-area .feature-middle-image .border__:after,
+    .blog-page-content .blog-posts-lists:after,
+    .blog-details-page-content .blog-details-post:after
+    {
+        display: none;
+    }
+    .fetures-area .feature-lists.right .single-feature-item.middle{
+        margin-left: 0;
+    }
+    .fetures-area .feature-middle-image {
+        text-align: center;
+    }
+
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3 .borde_4 .border__5 {
+        width: 100%;
+        height: 500px;
+    }
+    .fetures-area {
+        padding-bottom: 105px;
+    }
+    .intregration-area .left-content-area {
+        margin-bottom: 60px;
+    }
+    .subscription-area .subscription-inner .left-content-area {
+        margin-bottom: 20px;
+    }
+    .footer-top .left-content-area .title,
+    .footer-top .left-content-area p {
+        text-align: left;
+    }
+
+    .footer-top .right-content-area {
+        padding-left: 40px;
+    }
+    .maining-area .left-content-area{
+        padding-left: 12%;
+        padding-right: 12%;
+        margin-bottom: 30px;
+    }
+    .maining-area .right-content-area .features-carousel{
+        margin-left: 0;
+    }
+    .our-features.about-page .feature-lists .single-feature-item .icon {
+        left: 0;
+        right: auto;
+    }
+
+    .our-features.about-page .feature-lists .single-feature-item .content {
+        text-align: left;
+        padding-right: 0;
+        padding-left: 120px;
+    }
+    .our-features.about-page .feature-middle-image {
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+    .about-us-content .right-content-area {
+        padding-top: 60px;
+    }
+    .about-us-content {
+        padding-bottom: 100px;
+    }
+    .service-page-content-area .right-content-area .img-wrapper img {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .faq-content-conent .right-content-area .img-wrapper img {
+        float: none;
+    }
+
+    .faq-content-conent .right-content-area .img-wrapper {
+        text-align: center;
+    }
+
+    .faq-content-conent {
+        padding-bottom: 120px;
+    }
+    .intregration-area{
+        padding-bottom: 68px;
+    }
+    .navbar-area.nav-fixed {
+        padding: 20px 0;
+    }
+    .blog-page-content .blog-posts-lists{
+        margin-right: 0;
+    }
+    .blog-page-content .blog-posts-lists .single-blog-post.gallery {
+        margin-right: 30px;
+    }
+    .sidebar {
+        margin-top: 60px;
+    }
+
+    .sidebar .widget-area.about .widget-body .about-widget-wrapper .description {
+        text-align: center;
+    }
+
+    .blog-details-page-content .blog-details-post .related-posts .single-related-post .thumb img,
+    .sidebar .widget-area.trending-video .single-trending-video-post .thumb img,
+    .sidebar .widget-area.banner .widget-body img {
+        width: 100%;
+    }
+    .rmb-40{
+        margin-bottom: 40px;
+    }
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element {
+        width: 35%;
+    }
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select .input-field ,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .input-field {
+        width: 100%;
+        display: block;
+    }
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .submit-btn {
+        width: 35%;
+    }
+    .payout-tab-content .table thead th,
+    .bonus-tab-conent-area .table thead th,
+    .order-tab-content-area .table thead th,
+    .mining-tab-conent-area .table thead th{
+        font-size: 12px;
+    }
+    .earning-area .left-content {
+        padding-bottom: 60px;
+    }
+    .earning-area .left-content {
+        padding-bottom: 60px;
+    }
+
+    .dashboard-nav .left-content-area .nav.nav-tabs .nav-item.nav-link .name {
+        display: none;
+    }
+
+    .dashboard-nav .left-content-area .nav.nav-tabs .nav-item.nav-link .icon {
+        font-size: 30px;
+    }
+    .map {
+        height: 500px;
+    }
+    .rmb-60{
+        margin-bottom: 60px;
+    }
+    .blog-details-page-content {
+        padding-bottom: 235px;
+    }
+    .blog-page-content{
+        padding-bottom: 215px;
+        padding-top: 115px;
+    }
+    .service-page-content-area{
+        padding-top: 90px;
+    }
+    .footer-bottom .top-content p {
+        width: 100%;
+        font-size: 15px;
+        margin: 0 auto;
+    }
+    .footer-top {
+        padding-bottom: 120px;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item:hover .dropdown-menu {
+        border: none;
+    }
+    .navbar-area.nav-fixed .navbar-collapse {
+        top: 80px;
+    }
+    .pending-order-area .pending-order-tab-content .table thead th:last-child {
+        padding-right: 15px;
+    }
+}
+
+/* Tablet Layout wide: 768px. */
+
+@media only screen and (max-width: 767px) {
+    .navbar-area.nav-fixed {
+        padding: 20px 0;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item:hover .dropdown-menu {
+        border: none;
+    }
+    .navbar-area.nav-fixed .navbar-collapse {
+        top: 80px;
+    }
+    .navbar-area .navbar-collapse {
+        position: absolute;
+        top: 100px;
+        background: #141A66;
+        z-index: 9;
+        right: 0;
+        width: 250px;
+        padding-left: 20px;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item .dropdown-menu.show {
+        border: 0;
+    }
+    .navbar-area.navbar.navbar-light .navbar-toggler {
+        background: #fff;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item .nav-link.pl-0 {
+        padding-left: 0.4rem !important;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item {
+        padding: 0;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item .dropdown-menu.show .dropdown-item {
+        color: #fff;
+    }
+    .dropdown-item {
+        background: #141A66;
+        color: #fff;
+        border: 0;
+    }
+    .footer-top {
+        padding-bottom: 120px;
+    }
+    /*--- added ---*/
+    .calculation-area {
+        text-align: center;
+    }
+
+    .calculation-area .calculation-form {
+        padding: 0 20px;
+        position: relative;
+        margin-top: 25px;
+        left: -11%;
+    }
+
+    .rmb-70 {
+        margin-bottom: 120px !important;
+    }
+
+    .new-way-to-earn .single-new-way-item .content .title {
+        font-size: 21px;
+        font-weight: 700;
+    }
+
+    .fetures-area .feature-lists .single-feature-item .icon {
+        left: 0;
+    }
+
+    .fetures-area .feature-lists .single-feature-item .content {
+        text-align: left;
+        padding-right: 0;
+        padding-left: 120px;
+    }
+
+    .fetures-area .feature-lists .single-feature-item.middle {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3 .borde_4 .border__5:after,
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3 .borde_4:after,
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3:after,
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2:after,
+    .fetures-area .feature-middle-image .border__ .border__1:after,
+    .fetures-area .feature-middle-image .border__:after,
+    .blog-page-content .blog-posts-lists:after,
+    .blog-details-page-content .blog-details-post:after {
+        display: none;
+    }
+
+    .fetures-area .feature-lists.right .single-feature-item.middle {
+        margin-left: 0;
+    }
+
+    .fetures-area .feature-middle-image {
+        text-align: center;
+    }
+
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3 .borde_4 .border__5 {
+        width: 100%;
+        height: 500px;
+    }
+
+    .fetures-area {
+        padding-bottom: 105px;
+    }
+
+    .intregration-area .left-content-area {
+        margin-bottom: 60px;
+    }
+
+    .subscription-area .subscription-inner .left-content-area {
+        margin-bottom: 20px;
+    }
+
+    .footer-top .left-content-area .title,
+    .footer-top .left-content-area p {
+        text-align: left;
+    }
+    .maining-area .left-content-area {
+        padding-left: 12%;
+        padding-right: 12%;
+        margin-bottom: 30px;
+    }
+
+    .maining-area .right-content-area .features-carousel {
+        margin-left: 0;
+    }
+
+    .our-features.about-page .feature-lists .single-feature-item .icon {
+        left: 0;
+        right: auto;
+    }
+
+    .our-features.about-page .feature-lists .single-feature-item .content {
+        text-align: left;
+        padding-right: 0;
+        padding-left: 120px;
+    }
+
+    .our-features.about-page .feature-middle-image {
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+
+    .about-us-content .right-content-area {
+        padding-top: 60px;
+    }
+
+    .about-us-content {
+        padding-bottom: 100px;
+    }
+
+    .service-page-content-area .right-content-area .img-wrapper img {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .faq-content-conent .right-content-area .img-wrapper img {
+        float: none;
+    }
+
+    .faq-content-conent .right-content-area .img-wrapper {
+        text-align: center;
+    }
+
+    .faq-content-conent {
+        padding-bottom: 120px;
+    }
+
+    .intregration-area {
+        padding-bottom: 68px;
+    }
+
+    .navbar-area.nav-fixed {
+        padding: 20px 0;
+    }
+
+    .blog-page-content .blog-posts-lists {
+        margin-right: 0;
+    }
+
+    .blog-page-content .blog-posts-lists .single-blog-post.gallery {
+        margin-right: 30px;
+    }
+
+    .sidebar {
+        margin-top: 60px;
+    }
+
+    .sidebar .widget-area.about .widget-body .about-widget-wrapper .description {
+        text-align: center;
+    }
+
+    .blog-details-page-content .blog-details-post .related-posts .single-related-post .thumb img,
+    .sidebar .widget-area.trending-video .single-trending-video-post .thumb img,
+    .sidebar .widget-area.banner .widget-body img {
+        width: 100%;
+    }
+
+    .rmb-40 {
+        margin-bottom: 40px;
+    }
+
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element {
+        width: 35%;
+    }
+
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select .input-field,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .input-field {
+        width: 100%;
+        display: block;
+    }
+
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .submit-btn {
+        width: 35%;
+    }
+
+    .payout-tab-content .table thead th,
+    .bonus-tab-conent-area .table thead th,
+    .order-tab-content-area .table thead th,
+    .mining-tab-conent-area .table thead th {
+        font-size: 12px;
+    }
+
+    .earning-area .left-content {
+        padding-bottom: 60px;
+    }
+
+    .earning-area .left-content {
+        padding-bottom: 60px;
+    }
+
+    .dashboard-nav .left-content-area .nav.nav-tabs .nav-item.nav-link .name {
+        display: none;
+    }
+    .header-area .header-shape-3,
+    .header-area .header-shape-7,
+    .how-it-work .how-it-work-progress,
+    .reward-area .left-content-area,
+    .header-area .header-shape-4 {
+        display: none;
+    }
+
+    .dashboard-nav .left-content-area .nav.nav-tabs .nav-item.nav-link .icon {
+        font-size: 30px;
+    }
+
+    .map {
+        height: 500px;
+    }
+
+    .rmb-60 {
+        margin-bottom: 60px;
+    }
+
+    .blog-details-page-content {
+        padding-bottom: 235px;
+    }
+
+    .blog-page-content {
+        padding-bottom: 215px;
+        padding-top: 115px;
+    }
+
+    .service-page-content-area {
+        padding-top: 90px;
+    }
+
+    .footer-bottom .top-content p {
+        width: 100%;
+        font-size: 15px;
+        margin: 0 auto;
+    }
+    .header-area .header-inner .title {
+        font-size: 58px;
+        line-height: 68px;
+    }
+    .header-area .header-inner p {
+        font-size: 18px;
+    }
+    .section-title .subtitle{
+        font-size: 16px;
+        line-height: 45px;
+    }
+    .section-title .title {
+        font-size: 45px;
+        line-height: 54px;
+    }
+    .pending-order-area .pending-order-tab-content .table tbody tr td,
+    .mining-tab-conent-area .table tbody tr td {
+        font-size: 12px;
+    }
+    .pending-order-area .pending-order-tab-content .table thead th{
+        font-size: 12px;
+    }
+    .intregration-area .left-content-area .title {
+        font-size: 47px;
+    }
+    .subscription-area .subscription-inner .left-content-area .subtitle {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .subscription-area .subscription-inner .left-content-area .title {
+        font-size: 36px;
+    }
+    .footer-top .left-content-area {
+        padding-left: 0;
+    }
+
+    .footer-top .right-content-area {
+        padding-left: 0;
+    }
+    .footer-bottom .copyright-area .left-content {
+        display: inline-block;
+        padding-top: 10px;
+    }
+    .footer-bottom .copyright-area .right-content .social-icons li a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
+    }
+    .footer-bottom .copyright-area .left-content .copyright-text{
+        font-size: 14px;
+
+    }
+    .team-member-carousel .single-team-member .thumb img {
+        border-radius: 15px;
+    }
+    .get-reward-area .letf-content-area {
+        text-align: left !important;
+        margin-bottom: 40px;
+    }
+
+    .get-reward-area .right-content-area .subtitle {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .subscription-area .subscription-inner {
+        padding-top: 90px;
+    }
+    .blog-details-page-content .blog-details-post .single-blog-details-post .content p {
+        padding-right: 0;
+    }
+    .sidebar .widget-area.calculation .widget-body .calculation-result {
+        margin-top: 0px;
+    }
+    .blog-details-page-content .blog-details-post .comments-area .comment-form-wrapper .comment-form-inner .submit-btn,
+    .my-account-content-area .myaccount-form-wrapper .submit-btn,
+    .contact-page-content .contact-form-wrapper .submit-btn {
+        width: 100%;
+    }
+    .blog-details-page-content .blog-details-post {
+        margin-right: 0;
+    }
+    .dashboard-nav .right-content-area .nav.nav-tabs .nav-item.dropdown .nav-link .name {
+        display: none;
+    }
+
+    .dashboard-nav .right-content-area .nav.nav-tabs .nav-item.dropdown .nav-link i {
+        display: none;
+    }
+
+    .dashboard-nav .right-content-area .nav.nav-tabs .nav-item.dropdown .nav-link {
+        padding: 0;
+    }
+    .pricing-area .single-pricing-table {
+        max-width: 350px;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+
+    .pricing-area {
+        padding-bottom: 80px;
+    }
+    .sidebar .widget-area.crypto-tickers .widget-body .crypto-table tbody tr td:first-child,
+    .sidebar .widget-area.crypto-tickers .widget-body .crypto-table thead tr th:first-child {
+        padding-left: 50px;
+    }
+    .sidebar .widget-area.crypto-tickers .widget-body .crypto-table tbody tr td ,
+    .blog-page-content .blog-posts-lists .single-blog-post .content p {
+        padding-right: 0;
+    }
+    .footer-top.logo-carousel {
+        padding-bottom: 100px;
+    }
+    .maining-area .left-content-area .title {
+        font-size: 38px;
+        line-height: 48px;
+        letter-spacing: -2px;
+    }
+    .sidebar .widget-area.social-media .widget-body ul li:nth-child(3n+1) {
+        margin-left: 15px;
+    }
+    .sidebar .widget-area.social-media .widget-body ul {
+        text-align: center;
+    }
+    .navbar-area {
+        top: 0;
+        height: 100px;
+    }
+    .pending-order-area .pending-order-tab-content .table thead th:last-child {
+        padding-right: 15px;
+    }
+}
+
+/* medium tablet layout 599px */
+
+@media only screen and (max-width: 599px) {
+    .header-area .header-shape-1{
+        display: none;
+    }
+   .navbar-area,
+   .navbar-area.nav-fixed {
+       padding: 20px;
+   }
+   .header-area .header-inner .title {
+       font-size: 45px;
+       line-height: 55px;
+   }
+   .header-area .header-inner p {
+       font-size: 16px;
+   }
+   .section-title .title,
+   .calculation-area .calculation-title .title,
+   .intregration-area .left-content-area .title {
+       font-size: 40px;
+       line-height: 50px;
+   }
+
+   .calculation-area .calculation-form .form-element .input-field{
+       width: 130px;
+   }
+   .calculation-area .calculation-form {
+       left: -5%;
+   }
+   .feature-lists {
+       padding: 0 15px;
+   }
+   .intregration-area .left-content-area ul li .block-text {
+       margin-top: 5px;
+   }
+   .maining-area .right-content-area .features-carousel{
+       margin-left: -15px;
+   }
+   .subscription-area .subscription-inner{
+        padding: 45px 60px 50px 60px;
+   }
+   .team-member-carousel .single-team-member .content .post {
+       font-size: 14px;
+       line-height: 24px;
+   }
+   .maining-area .left-content-area {
+       padding-left: 15px;
+       padding-right: 9px;
+       margin-bottom: 30px;
+   }
+   .faq-content-conent .left-content-area .accordion-wrapper ,
+   .faq-content-conent .right-content-area {
+       padding: 0 5px;
+   }
+   .service-page-content-area .left-content-area .title {
+       font-size: 38px;
+   }
+    .sidebar .widget-area.social-media .widget-body ul li:nth-child(3n+1) {
+        margin-left: 15px;
+    }
+
+    .sidebar .widget-area.social-media .widget-body ul {
+        text-align: center;
+    }
+    .payout-tab-content .table tbody tr td,
+    .bonus-tab-conent-area .table tbody tr td,
+    .order-tab-content-area .table tbody tr td,
+    .mining-tab-conent-area .table tbody tr td{
+        font-size: 12px;
+    }
+    .dashboard-nav .left-content-area .nav.nav-tabs .nav-item.nav-link {
+        padding: 0 11px;
+    }
+    .dashboard-nav .right-content-area .nav.nav-tabs .nav-item .dropdown-menu {
+        float: none;
+        margin-left: -85px;
+    }
+    .upgrade-area .single-upgrade-item .right-content {
+        float: none;
+        margin-top: 20px;
+    }
+    .payout-tab-content .table thead th,
+    .bonus-tab-conent-area .table thead th,
+    .order-tab-content-area .table thead th,
+    .mining-tab-conent-area .table thead th {
+        padding: 18px 30px;
+    }
+    .pending-order-area .pending-order-tab-content .table thead th {
+        padding: 18px 30px;
+        font-size: 14px;
+    }
+    .pending-order-area .pending-order-tab-content .table,
+    .payout-tab-content .table,
+    .bonus-tab-conent-area .table,
+    .order-tab-content-area .table,
+    .mining-tab-conent-area .table {
+        padding: 0;
+        display: block !important;
+    }
+}
+@media only screen and (min-width:415px) and (max-width: 450px){
+    .calculation-area .calculation-form .form-element .submit-btn {
+        position: initial;
+        margin-top: 10px;
+        width: 100%;
+        display: block;
+    }
+    .calculation-area .calculation-form .form-element.submit {
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    .calculation-area .calculation-form .form-element.select {
+        width: 49%;
+    }
+
+    .calculation-area .calculation-form .form-element.select .input-field {
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form .form-element .input-field {
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form {
+        left: 0;
+    }
+     .calculation-area .calculation-form .form-element {
+         width: 49%;
+     }
+     .calculation-area .calculation-form .form-element.select.has-icon .the-icon{
+         right: 50px;
+     }
+     .pending-order-area .pending-order-tab-content .table thead th {
+         padding: 18px 30px;
+         font-size: 14px;
+     }
+     .pending-order-area .pending-order-tab-content .table thead th:last-child {
+         padding-right: 25px;
+     }
+     .breadcrumb-area {
+         padding: 255px 0 142px 0;
+     }
+}
+/* mobile tablet layout 414px */
+
+@media only screen and (max-width: 414px) {
+     .subscription-area .subscription-inner .left-content-area .title {
+         font-size: 32px;
+     }
+     .subscription-area .subscription-inner .left-content-area .subtitle {
+         font-size: 14px;
+         margin-bottom: 0px;
+     }
+     .breadcrumb-area,
+     .breadcrumb-area.blog-page {
+         padding: 180px 0 70px 0;
+     }
+     .blog-details-page-content .blog-details-post .comments-area .title {
+         font-size: 28px;
+     }
+     .blog-details-page-content .blog-details-post .comments-area .single-comments-list.reply {
+         padding-left: 50px;
+     }
+     .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .submit-btn {
+         width: 40%;
+     }
+     .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select.has-icon .the-icon {
+         right: 55px;
+     }
+     .blog-details-page-content .blog-details-post .social-share-area ul li a {
+         width: 45px;
+         height: 45px;
+         line-height: 45px;
+     }
+     .section-title .title,
+     .calculation-area .calculation-title .title,
+     .intregration-area .left-content-area .title{
+         font-size: 35px;
+         line-height: 45px;
+     }
+     .service-page-content-area .left-content-area .title {
+         font-size: 34px;
+     }
+     .get-reward-area .right-content-area .subtitle {
+         font-size: 14px;
+         margin-bottom: 0;
+     }
+     .get-reward-area .right-content-area .title {
+         font-size: 40px;
+         line-height: 50px;
+     }
+     .faq-content-conent .left-content-area .accordion-wrapper .card .card-header a {
+         border-radius: 50px;
+     }
+     .maining-area .left-content-area .title {
+         font-size: 32px;
+         line-height: 42px;
+     }
+     .calculation-area .calculation-form .form-element .submit-btn {
+         width: 130px;
+     }
+     .calculation-area .calculation-form .form-element.select .input-field {
+         width: 200px;
+     }
+     .calculation-area .calculation-form .form-element.select.has-icon .the-icon {
+         right: 110px;
+     }
+     .header-area .header-inner p {
+         font-size: 14px;
+     }
+     .header-area .header-inner .title {
+         font-size: 40px;
+         line-height: 50px;
+     }
+     .pending-order-area .pending-order-tab-content .table,
+     .payout-tab-content .table,
+     .bonus-tab-conent-area .table,
+     .order-tab-content-area .table,
+     .mining-tab-conent-area .table {
+         padding: 0;
+         display: block !important;
+     }
+     .header-area .header-shape-1{
+         display: none;
+     }
+     .pricing-area .type-of-price-table .left-content {
+         display: block;
+     }
+
+     .pricing-area .type-of-price-table .middle-content {
+         display: block;
+         margin-bottom: 15px;
+     }
+     .sidebar .widget-area.crypto-tickers .widget-body .crypto-table tbody tr td:first-child,
+     .sidebar .widget-area.crypto-tickers .widget-body .crypto-table thead tr th:first-child {
+         padding-left: 35px;
+     }
+     .dashboard-nav .left-content-area .nav.nav-tabs .nav-item.nav-link {
+         padding: 0 10px;
+         margin-top: 10px;
+     }
+     .dashboard-nav .left-content-area .nav.nav-tabs .nav-item.nav-link .icon{
+         font-size: 25px;
+     }
+     /*for how much section*/
+     .calculation-area .calculation-form .form-element .submit-btn {
+         position: initial;
+         margin-top: 10px;
+         width: 100%;
+         display: block;
+     }
+
+     .calculation-area .calculation-form .form-element.submit {
+         width: 200px;
+         margin: 0 auto;
+     }
+
+     .calculation-area .calculation-form .form-element.select {
+         width: 49%;
+     }
+
+     .calculation-area .calculation-form .form-element.select .input-field {
+         width: 100%;
+     }
+
+     .calculation-area .calculation-form .form-element .input-field {
+         width: 100%;
+     }
+
+     .calculation-area .calculation-form {
+         left: 0;
+     }
+
+     .calculation-area .calculation-form .form-element {
+         width: 49%;
+     }
+
+     .calculation-area .calculation-form .form-element.select.has-icon .the-icon {
+         right: 50px;
+     }
+      /*for how much section*/
+
+      .calculation-area .calculation-form .form-element .submit-btn,
+      .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .submit-btn {
+          position: initial;
+          margin-top: 10px;
+          width: 100%;
+          display: block;
+      }
+
+      .calculation-area .calculation-form .form-element.submit {
+          width: 100%;
+      }
+
+      .calculation-area .calculation-form .form-element.select,
+      .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select {
+          width: 49%;
+      }
+
+      .calculation-area .calculation-form .form-element.select .input-field,
+      .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select .input-field {
+          width: 100%;
+      }
+
+      .calculation-area .calculation-form .form-element .input-field,
+      .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .input-field {
+          width: 100%;
+      }
+
+      .calculation-area .calculation-form,
+      .sidebar .widget-area.calculation .widget-body .calculation-form {
+          left: 0;
+      }
+
+      .calculation-area .calculation-form .form-element,
+      .sidebar .widget-area.calculation .widget-body .calculation-form .form-element {
+          width: 49%;
+      }
+
+      .calculation-area .calculation-form .form-element.select.has-icon .the-icon,
+      .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select.has-icon .the-icon {
+          right: 30px;
+      }
+
+      .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.submit {
+          display: block;
+          width: 100%;
+          margin-bottom: 20px;
+      }
+      .pending-order-area .pending-order-tab-content .table thead th {
+          padding: 18px 30px;
+          font-size: 14px;
+      }
+      .pending-order-area .pending-order-tab-content .table thead th:last-child {
+          padding-right: 25px;
+      }
+}
+
+/* mobile tablet layout 375px */
+
+@media only screen and (max-width: 384px) {
+    .calculation-area .calculation-form .form-element .input-field {
+        width: 110px;
+    }
+    .calculation-area .calculation-form .form-element.select.has-icon .the-icon {
+        right: 120px;
+    }
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3 .borde_4 .border__5 .border__6 {
+        padding: 0 15px;
+    }
+    .footer-top .left-content-area .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .subscription-area .subscription-inner .left-content-area .subtitle {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    .subscription-area .subscription-inner .left-content-area .title {
+        font-size: 28px;
+    }
+    .service-page-content-area .left-content-area .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .service-page-content-area .left-content-area .subtitle {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .section-title .title,
+    .calculation-area .calculation-title .title,
+    .intregration-area .left-content-area .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .section-title .subtitle {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .intregration-area .right-content-area .single-intregration-item .content .title {
+        font-size: 28px;
+        font-weight: 700;
+    }
+    .footer-bottom .copyright-area .left-content {
+        display: block;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .footer-bottom .copyright-area .right-content {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select.has-icon .the-icon {
+        right: 45px;
+    }
+    .dashboard-nav .left-content-area .nav.nav-tabs .nav-item.nav-link .icon {
+        font-size: 20px;
+    }
+    .upgrade-area .single-upgrade-item .left-content .content .name {
+        font-size: 18px;
+    }
+    .subscription-area .subscription-inner .right-content-area .subsform-wrapper .form-element .input-field {
+        width: 100%;
+    }
+
+    .subscription-area .subscription-inner .right-content-area .subsform-wrapper .submit-btn {
+        width: 100%;
+        position: initial;
+        margin-top: 20px;
+        border-radius: 6px;
+    }
+    .subscription-area .subscription-inner {
+        padding: 45px 40px 50px 40px;
+    }
+    .dashboard-nav .left-content-area .nav.nav-tabs .nav-item.nav-link .icon {
+        font-size: 16px;
+    }
+
+    /*for how much section*/
+
+    .calculation-area .calculation-form .form-element .submit-btn,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .submit-btn {
+        position: initial;
+        margin-top: 10px;
+        width: 100%;
+        display: block;
+    }
+
+    .calculation-area .calculation-form .form-element.submit {
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form .form-element.select,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select {
+        width: 49%;
+    }
+
+    .calculation-area .calculation-form .form-element.select .input-field,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select .input-field {
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form .form-element .input-field,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .input-field {
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form,
+    .sidebar .widget-area.calculation .widget-body .calculation-form {
+        left: 0;
+    }
+
+    .calculation-area .calculation-form .form-element,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element {
+        width: 49%;
+    }
+
+    .calculation-area .calculation-form .form-element.select.has-icon .the-icon,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select.has-icon .the-icon {
+        right: 30px;
+    }
+
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.submit {
+        display: block;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+/* mobile tablet layout 360px */
+
+@media only screen and (max-width: 360px) {
+    .dashboard-nav .left-content-area .nav.nav-tabs .nav-item.nav-link:after {
+        bottom: -10px;
+    }
+
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select.has-icon .the-icon {
+        right: 40px;
+    }
+    .breadcrumb-area .breadcrumb-lists ul li {
+        font-size: 14px;
+        padding-left: 20px;
+    }
+    .breadcrumb-area .page-title {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .subscription-area .subscription-inner .right-content-area .subsform-wrapper .form-element .input-field{
+        padding-right: 30px;
+    }
+    .service-page-content-area .left-content-area .title {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .calculation-area .calculation-form .form-element .submit-btn {
+        width: 120px;
+        font-size: 13px;
+    }
+    .calculation-area .calculation-form .form-element.select.has-icon .the-icon {
+        right: 98px;
+    }
+    .calculation-area .calculation-form .form-element.select .input-field {
+        width: 170px;
+    }
+    .calculation-area .calculation-form .form-element .input-field {
+        width: 90px;
+    }
+    .intregration-area .right-content-area .single-intregration-item .content .title {
+        font-size: 25px;
+        font-weight: 700;
+    }
+    .our-features.about-page .feature-lists .single-feature-item .icon {
+        position: initial;
+    }
+
+    .our-features.about-page .feature-lists .single-feature-item .content {
+        padding-left: 0;
+        margin-top: 25px;
+    }
+    .our-features.about-page .feature-lists.right .single-feature-item .content {
+        padding-left: 0;
+    }
+    .intregration-area .right-content-area .single-intregration-item {
+        padding-left: 0;
+    }
+    .intregration-area .right-content-area .single-intregration-item .icon .bg-number{
+        display: none;
+    }
+    .intregration-area .right-content-area .single-intregration-item .content .title {
+        font-size: 24px;
+    }
+    .pending-order-area .pending-order-tab-content .table thead th {
+        padding: 18px 30px;
+        font-size: 14px;
+    }
+    .reward-area .right-content-area .subtitle {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .reward-area .right-content-area .title {
+        font-size: 40px;
+    }
+    .fetures-area .feature-lists .single-feature-item .icon {
+        position: initial;
+        margin-bottom: 25px;
+    }
+
+    .fetures-area .feature-lists .single-feature-item .content,
+    .fetures-area .feature-lists.right .single-feature-item .content {
+        padding-left: 0;
+    }
+    .fetures-area .feature-middle-image .border__ .border__1 .border__2 .border__3 .borde_4 .border__5 {
+        width: 100%;
+        height: 430px;
+    }
+    .footer-top .left-content-area .title {
+        font-size: 32px;
+        line-height: 45px;
+    }
+    .footer-top .left-content-area p{
+        font-size: 14px;
+    }
+    .footer-bottom .top-content p {
+        font-size: 14px;
+    }
+    .intregration-area .right-content-area .single-intregration-item .icon {
+        position: initial;
+        margin-bottom: 20px;
+    }
+
+    .intregration-area .right-content-area .single-intregration-item .content {
+        padding-left: 0;
+    }
+    .fetures-area .feature-lists .single-feature-item ,
+    .our-features.about-page .feature-lists .single-feature-item {
+        margin-bottom: 50px;
+    }
+    .header-area .header-inner .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .about-us-content .right-content-area .blackquote {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .section-title .title,
+    .calculation-area .calculation-title .title,
+    .intregration-area .left-content-area .title {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .get-reward-area .right-content-area .title {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .blog-details-page-content .blog-details-post .comments-area .single-comments-list .thumb {
+        position: initial;
+        margin-bottom: 25px;
+    }
+
+    .blog-details-page-content .blog-details-post .comments-area .single-comments-list .content {
+        padding-left: 0;
+    }
+    .upgrade-area .single-upgrade-item .left-content .content .name {
+        font-size: 17px;
+    }
+    /*for how much section*/
+
+    .calculation-area .calculation-form .form-element .submit-btn,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .submit-btn {
+        position: initial;
+        margin-top: 10px;
+        width: 100%;
+        display: block;
+    }
+
+    .calculation-area .calculation-form .form-element.submit {
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form .form-element.select,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select {
+        width: 49%;
+    }
+
+    .calculation-area .calculation-form .form-element.select .input-field,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select .input-field {
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form .form-element .input-field,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .input-field {
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form,
+    .sidebar .widget-area.calculation .widget-body .calculation-form {
+        left: 0;
+    }
+
+    .calculation-area .calculation-form .form-element,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element {
+        width: 49%;
+    }
+
+    .calculation-area .calculation-form .form-element.select.has-icon .the-icon,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select.has-icon .the-icon {
+        right: 30px;
+    }
+
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.submit {
+        display: block;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+/* mobile tablet layout 320px */
+
+@media only screen and (max-width: 320px) {
+    .pricing-area .single-pricing-table.popular .badge-text {
+        right: -50px;
+        top: 4px;
+        width: 150px;
+        font-size: 14px;
+    }
+    .upgrade-area .single-upgrade-item .left-content .icon {
+        position: initial;
+        display: inline-block;
+    }
+
+    .upgrade-area .single-upgrade-item .left-content .icon .small-icon {
+        position: inherit;
+        margin-left: -40px;
+        margin-bottom: 25px;
+    }
+
+    .upgrade-area .single-upgrade-item .left-content .content {
+        padding-left: 0;
+    }
+    .upgrade-area .single-upgrade-item{
+        text-align: center;
+    }
+    .subscription-area .subscription-inner {
+        padding: 45px 30px 50px 30px;
+    }
+    .dashboard-nav .left-content-area .nav.nav-tabs {
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    .dashboard-nav .right-content-area {
+        float: none;
+        display: block;
+    }
+
+    .dashboard-nav .right-content-area .nav.nav-tabs {
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+    .dashboard-nav .right-content-area .nav.nav-tabs .nav-item.dropdown .nav-link .name,
+    .dashboard-nav .right-content-area .nav.nav-tabs .nav-item.dropdown .nav-link i {
+        display: inline-block;
+    }
+    .dashboard-nav .right-content-area .nav.nav-tabs .nav-item .dropdown-menu{
+        margin-left: 0;
+    }
+    .blog-details-page-content .blog-details-post .single-blog-details-post .thumb .tag ,
+    .blog-page-content .blog-posts-lists .single-blog-post .thumb .tag {
+        left: 10px;
+        bottom: 10px;
+    }
+    .blog-details-page-content .blog-details-post .social-share-area ul li {
+        margin: 0 5px;
+    }
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select.has-icon .the-icon{
+        display: none;
+    }
+    .blog-page-content .blog-posts-lists .single-blog-post .content .post-meta li {
+        display: inline-block;
+        margin: 0 3px;
+        font-size: 14px;
+        color: #00a8ff;
+    }
+    .service-page-content-area .left-content-area .title {
+        font-size: 26px;
+        line-height: 30px;
+        letter-spacing: -2px;
+    }
+    .section-title .title,
+    .calculation-area .calculation-title .title,
+    .intregration-area .left-content-area .title {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .calculation-area .calculation-form .form-element .submit-btn {
+        width: 100px;
+        font-size: 12px;
+    }
+    .calculation-area .calculation-form .form-element .input-field{
+        width: 80px;
+    }
+    .calculation-area .calculation-form .form-element.select .input-field{
+        width: 120px;
+    }
+    .maining-area .left-content-area .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .maining-area {
+        padding-bottom: 60px;
+    }
+    .header-area .header-inner .title {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .footer-top .left-content-area .title {
+        font-size: 28px;
+        line-height: 45px;
+    }
+    /*for how much section*/
+
+    .calculation-area .calculation-form .form-element .submit-btn,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .submit-btn {
+        position: initial;
+        margin-top: 10px;
+        width: 100%;
+        display: block;
+    }
+
+    .calculation-area .calculation-form .form-element.submit{
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form .form-element.select ,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select {
+        width: 49%;
+    }
+
+    .calculation-area .calculation-form .form-element.select .input-field,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select .input-field {
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form .form-element .input-field,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element .input-field {
+        width: 100%;
+    }
+
+    .calculation-area .calculation-form,
+    .sidebar .widget-area.calculation .widget-body .calculation-form {
+        left: 0;
+    }
+
+    .calculation-area .calculation-form .form-element,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element {
+        width: 49%;
+    }
+
+    .calculation-area .calculation-form .form-element.select.has-icon .the-icon,
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.select.has-icon .the-icon {
+        right: 30px;
+    }
+    .sidebar .widget-area.calculation .widget-body .calculation-form .form-element.submit{
+        display: block;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .team-member-area {
+        padding: 120px 0 270px 0;
+    }
+}

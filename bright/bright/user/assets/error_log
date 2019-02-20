@@ -1,0 +1,13 @@
+[07-Aug-2018 05:18:51 UTC] PHP Warning:  require(/home/dreamstars/public_html/user/assets../config.php): failed to open stream: No such file or directory in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 5
+[07-Aug-2018 05:18:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/dreamstars/public_html/user/assets../config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 5
+[07-Aug-2018 05:18:54 UTC] PHP Warning:  require(/home/dreamstars/public_html/user/assets../config.php): failed to open stream: No such file or directory in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 5
+[07-Aug-2018 05:18:54 UTC] PHP Fatal error:  require(): Failed opening required '/home/dreamstars/public_html/user/assets../config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 5
+[07-Aug-2018 05:51:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 59
+[07-Aug-2018 05:52:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 59
+[07-Aug-2018 05:52:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 59
+[07-Aug-2018 05:55:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 59
+[07-Aug-2018 05:56:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 59
+[07-Aug-2018 05:58:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 60
+[07-Aug-2018 05:58:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 60
+[07-Aug-2018 06:00:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 60
+[07-Aug-2018 06:00:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dreamstars/public_html/user/assets/genology_tree_009.php on line 60
